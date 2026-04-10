@@ -21,11 +21,14 @@
 ---
 
 ## 🚀 Projects
-- 🔥 **Advanced Threat Intelligence Platform**  
-  OSINT-based threat detection system with automated firewall blocking  
+### 🔥 Advanced Threat Intelligence Platform
+OSINT-based threat detection system with automated firewall blocking  
 
-- 🧪 (Upcoming) Web Exploitation Lab  
-- 📄 (Upcoming) Bug Bounty Writeups  
+### 🧪 Web Exploitation Lab *(Coming Soon)*
+Hands-on vulnerable web application for practicing real-world attacks  
+
+### 📄 Bug Bounty Writeups *(Coming Soon)*
+Detailed writeups of vulnerabilities and labs  
 
 ---
 
