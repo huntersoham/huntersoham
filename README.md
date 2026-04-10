@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Soham Jadhav (huntersoham)
 
-<!--
-**huntersoham/huntersoham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Analyst | Ethical Hacker | Bug Bounty Hunter  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- 🔍 Web Application Security (XSS, SQL Injection, CSRF)
+- 🛡️ Vulnerability Assessment & Penetration Testing (VAPT)
+- ⚙️ Tools: Burp Suite, Nmap, SQLMap
+- 🔑 Password Security & Hashing
+- 💻 OS: Linux, Windows Hardening
+
+---
+
+## 🏆 Achievements
+- 🥇 TryHackMe Top 3%
+- 🏅 Hall of Fame – 9+ Organizations
+- 🎯 Active CTF Player
+
+---
+
+## 🚀 Projects
+- 🔥 **Advanced Threat Intelligence Platform**  
+  OSINT-based threat detection system with automated firewall blocking  
+
+- 🧪 (Upcoming) Web Exploitation Lab  
+- 📄 (Upcoming) Bug Bounty Writeups  
+
+---
+
+## 📚 Currently Learning
+- OSCP Preparation  
+- Advanced Web Exploitation  
+- Real-world Bug Hunting  
+
+---
+
+## 📫 Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/huntersoham  
+- 📧 Email: sampatil8554@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+I break applications to make them more secure 🔐
