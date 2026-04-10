@@ -38,7 +38,7 @@
 
 ## 📫 Connect With Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/huntersoham  
-- 📧 Email: sampatil8554@gmail.com  
+- 📧 Email: jadhavsohum@gmail.com  
 
 ---
 
