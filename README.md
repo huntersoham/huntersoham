@@ -16,7 +16,7 @@ Soham Jadhav — Ethical Hacker | Bug Hunter | VAPT Analyst | CTF Player
 ```
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/huntersoham)
-[![Hall of Fame](https://img.shields.io/badge/Hall%20of%20Fame-9%2B%20Orgs-brightgreen?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
+[![Hall of Fame](https://img.shields.io/badge/Hall%20of%20Fame-10+Orgs-brightgreen?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
 [![CTF Player](https://img.shields.io/badge/CTF-Active%20Player-orange?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
 [![OSCP](https://img.shields.io/badge/OSCP-In%20Preparation-blue?style=for-the-badge&logo=offensive-security&logoColor=white)](#)
 
@@ -133,10 +133,10 @@ huntersoham@kali:~$ ls -la projects/
 
 ---
 
-### `[02]` Web Exploitation Lab *(Coming Soon)*
+### `[02]` Web Exploitation Lab
 > **Deliberately vulnerable web app — practice real attacks in a safe lab**
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 
 ```
 [*] Covers full OWASP Top 10 attack surface
@@ -144,6 +144,7 @@ huntersoham@kali:~$ ls -la projects/
 [*] Guided walkthroughs for each vulnerability class
 [*] Designed for hands-on self-paced security training
 ```
+🔗 [View Repository →](https://github.com/huntersoham/BreakTheWeb-CTF)
 
 ---
 
