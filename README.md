@@ -104,7 +104,7 @@ huntersoham@kali:~$ cat achievements.txt
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-> Responsibly discovered and disclosed vulnerabilities to **9+ organisations worldwide** — acknowledged in their official security Hall of Fame.
+> Responsibly discovered and disclosed vulnerabilities to **10+ organisations worldwide** — acknowledged in their official security Hall of Fame.
 
 ---
 
