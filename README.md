@@ -96,7 +96,7 @@ huntersoham@kali:~$ cat achievements.txt
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
 ║   [★] TryHackMe    →  TOP 3% GLOBALLY                   ║
-║   [★] Hall of Fame →  9+ ORGANISATIONS                  ║
+║   [★] Hall of Fame →  10+ ORGANISATIONS                  ║
 ║   [★] CTF          →  ACTIVE COMPETITOR                 ║
 ║   [★] Bug Bounty   →  RESPONSIBLE DISCLOSURES           ║
 ║   [★] OSCP         →  IN PREPARATION                    ║
