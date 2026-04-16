@@ -34,7 +34,7 @@ huntersoham@kali:~$ cat about.txt
 [*] Role      : Ethical Hacker | Bug Hunter | VAPT Analyst | CTF Player
 [*] Location  : Aurangabad, India
 [*] TryHackMe : Top 3% Globally
-[*] HoF       : 9+ Organisations
+[*] HoF       : 10+ Organisations
 [*] Focus     : Web App Security | Network Pentesting | OSINT | Bug Bounty
 [*] Currently : Preparing for OSCP | Hunting bugs | Competing in CTFs
 [*] Motto     : "I break systems to make them unbreakable."
